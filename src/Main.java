@@ -35,20 +35,13 @@ public class Main {
     public static void task2() {
         System.out.println("Задача 2");
 
-        /* 27.12
-        987 678 965 549
-        2.786
-        569
-                -159
-        27897
-        67
-                 */
-        float a = 27.12f;
+
+        double a = 27.12;
         long b = 987678965549L;
         float c = 2.786f;
         short d = 569;
         short e = -159;
-        short f = 27897;
+        int f = 27897;
         byte g = 67;
 
 
